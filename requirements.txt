@@ -4,6 +4,7 @@ gtts
 pydub 
 numpy 
 requests 
-whisper 
-groq 
+faster_whisper
+sounddevice
+pygame
 openai-whisper
